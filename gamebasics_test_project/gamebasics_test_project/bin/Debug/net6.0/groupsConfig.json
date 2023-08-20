@@ -1,0 +1,192 @@
+{
+	"Teams": [
+		{
+			"Name": "The Dogs",
+			"Players": [
+				{
+					"Name": "Cristiano Ronaldo",
+					"Age": 34,
+					"Position": "GOALKEEPER",
+					"Score": 10
+				},
+				{
+					"Name": "Sergio Ramos",
+					"Age": 32,
+					"Position": "CENTRE_DEFENCE",
+					"Score": 34
+				},
+				{
+					"Name": "Marcelo",
+					"Age": 29,
+					"Position": "LEFT_DEFENCE",
+					"Score": 77
+				},
+				{
+					"Name": "Dani Carvajal",
+					"Age": 27,
+					"Position": "RIGHT_DEFENCE",
+					"Score": 56
+				},
+				{
+					"Name": "Karim Benzema",
+					"Age": 31,
+					"Position": "CENTRE_FORWARD",
+					"Score": 89
+				},
+				{
+					"Name": "Vinicius Jr",
+					"Age": 19,
+					"Position": "LEFT_FORWARD",
+					"Score": 87
+				},
+				{
+					"Name": "Rodrygo",
+					"Age": 20,
+					"Position": "RIGHT_FORWARD",
+					"Score": 76
+				}
+			]
+		},
+		{
+			"Name": "The Cats",
+			"Players": [
+				{
+					"Name": "Lionel Messi",
+					"Age": 30,
+					"Position": "GOALKEEPER",
+					"Score": 10
+				},
+				{
+					"Name": "Neymar Jr",
+					"Age": 28,
+					"Position": "CENTRE_DEFENCE",
+					"Score": 33
+				},
+				{
+					"Name": "Kevin De Bruyne",
+					"Age": 29,
+					"Position": "LEFT_DEFENCE",
+					"Score": 66
+				},
+				{
+					"Name": "Virgil van Dijk",
+					"Age": 29,
+					"Position": "RIGHT_DEFENCE",
+					"Score": 67
+				},
+				{
+					"Name": "Robert Lewandowski",
+					"Age": 32,
+					"Position": "CENTRE_FORWARD",
+					"Score": 80
+				},
+				{
+					"Name": "Kylian Mbappé",
+					"Age": 22,
+					"Position": "LEFT_FORWARD",
+					"Score": 85
+				},
+				{
+					"Name": "Joshua Kimmich",
+					"Age": 26,
+					"Position": "RIGHT_FORWARD",
+					"Score": 86
+				}
+			]
+		},
+		{
+			"Name": "The Crocodiles",
+			"Players": [
+				{
+					"Name": "Andres Iniesta",
+					"Age": 37,
+					"Position": "GOALKEEPER",
+					"Score": 10
+				},
+				{
+					"Name": "Sergio Agüero",
+					"Age": 33,
+					"Position": "CENTRE_DEFENCE",
+					"Score": 65
+				},
+				{
+					"Name": "Gareth Bale",
+					"Age": 32,
+					"Position": "LEFT_DEFENCE",
+					"Score": 66
+				},
+				{
+					"Name": "Paul Pogba",
+					"Age": 28,
+					"Position": "RIGHT_DEFENCE",
+					"Score": 76
+				},
+				{
+					"Name": "Jordi Alba",
+					"Age": 32,
+					"Position": "CENTRE_FORWARD",
+					"Score": 91
+				},
+				{
+					"Name": "Erling Haaland",
+					"Age": 21,
+					"Position": "LEFT_FORWARD",
+					"Score": 92
+				},
+				{
+					"Name": "Bruno Fernandes",
+					"Age": 26,
+					"Position": "RIGHT_FORWARD",
+					"Score": 87
+				}
+			]
+		},
+		{
+			"Name": "The Birds",
+			"Players": [
+				{
+					"Name": "Manuel Neuer",
+					"Age": 35,
+					"Position": "GOALKEEPER",
+					"Score": 10
+				},
+				{
+					"Name": "Sadio Mané",
+					"Age": 29,
+					"Position": "CENTRE_DEFENCE",
+					"Score": 67
+				},
+				{
+					"Name": "Kalidou Koulibaly",
+					"Age": 30,
+					"Position": "LEFT_DEFENCE",
+					"Score": 43
+				},
+				{
+					"Name": "Luka Modrić",
+					"Age": 36,
+					"Position": "RIGHT_DEFENCE",
+					"Score": 55
+				},
+				{
+					"Name": "Timo Werner",
+					"Age": 25,
+					"Position": "CENTRE_FORWARD",
+					"Score": 90
+				},
+				{
+					"Name": "Andrew Robertson",
+					"Age": 28,
+					"Position": "LEFT_FORWARD",
+					"Score": 70
+				},
+				{
+					"Name": "Frenkie de Jong",
+					"Age": 24,
+					"Position": "RIGHT_FORWARD",
+					"Score": 89
+				}
+			]
+		}
+	]
+}

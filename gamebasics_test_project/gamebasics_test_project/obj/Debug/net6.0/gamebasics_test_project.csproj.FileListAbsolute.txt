@@ -1,0 +1,15 @@
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\bin\Debug\net6.0\gamebasics_test_project.exe
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\bin\Debug\net6.0\gamebasics_test_project.deps.json
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\bin\Debug\net6.0\gamebasics_test_project.runtimeconfig.json
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\bin\Debug\net6.0\gamebasics_test_project.dll
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\bin\Debug\net6.0\gamebasics_test_project.pdb
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.AssemblyInfoInputs.cache
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.AssemblyInfo.cs
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.dll
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\refint\gamebasics_test_project.dll
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.pdb
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\gamebasics_test_project.genruntimeconfig.cache
+C:\Users\luis_\Desktop\gamebasics_test\gamebasics_test_project\gamebasics_test_project\obj\Debug\net6.0\ref\gamebasics_test_project.dll
