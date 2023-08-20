@@ -102,7 +102,7 @@ namespace gamebasics_test_project.view
                 }
                 else if (result.Team2Goals == result.Team1Goals)
                 {
-                    teamInfoMap[result.Team2].Wins++;
+                    teamInfoMap[result.Team1].Wins++;
                     teamInfoMap[result.Team2].Wins++;
                 }
             }
